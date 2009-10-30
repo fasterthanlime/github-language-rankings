@@ -1,0 +1,3 @@
+github-rank.py is a simple script that pulls github.com/languages/ pages by HTTP
+and reconstruct their Language rankings from there. Its data can then be used to
+generate graphs, etc.
